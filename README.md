@@ -1,0 +1,2 @@
+# JavaScrapped
+Random JS Practice
